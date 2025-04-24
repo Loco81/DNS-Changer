@@ -1,4 +1,4 @@
-<h1 align="center"> DNS </h1>
+<h1 align="center"> <img width="30" src="/images/icon.png" alt="LoCoToring" /> DNS </h1>
 <h3 align="center"> <a href="https://loco81.ir/skills/DNS"> Click here to visit DNS on my site </a> </h3>
 <p align="center"> A simple program to change your Windows DNS☺️ </p>
 <p align="center"> This program has a default list of popular DNS and you can save your used DNS in the program and use it later!😀 If you enable the option to add to Windows path, the program will be introduced to the system and run by typing the "DNS" command in the command line or the run window!🙃 Please note that when the program turns red, it means that no change has been made to the DNS and it is the same as before👍 </p>
